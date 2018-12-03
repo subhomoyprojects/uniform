@@ -1,0 +1,178 @@
+/*-=-=-=-==-==-=-=-=-=-=-=-=-==-==-==-= Common Library -=-=-------------=-=-*/
+
+.no_margin
+{
+	margin:0 !important;
+}
+.no_padding
+{
+	padding:0 !important;
+}
+.no_margin_left_right
+{
+	margin-left:0 !important;
+	margin-right:0 !important;
+}
+.no_margin_top_bottom
+{
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+}
+.no_padding_left_right
+{
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+.no_padding_top_bottom
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+}
+.no-pad-left{
+padding-left:0 !important	
+}
+.margin_center{
+	margin:0 auto;
+}
+.margin_left_0{
+	margin-left:0;
+}
+.margin_right_0{
+	margin-right:0;
+}
+.margin_top_0{
+	margin-top:0;
+}
+.margin_bottom_0{
+	margin-bottom:0;
+}
+*
+{
+	outline:none;
+	padding:0;
+	margin:0;
+}
+.html
+{
+	font-size:14px;
+	-ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background:#F2F2F2;
+}
+a
+{
+	text-decoration:none;
+	color:#555;
+	font-family: 'Montserrat', sans-serif;
+}
+a:hover,
+a:focus {
+  color: #23527c;
+  text-decoration:none;
+}
+a:focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+p
+{
+	margin:0;
+	font-family: 'Montserrat', sans-serif;
+	color:#333;
+	font-size:14px;
+}
+img
+{
+	border:0;
+	vertical-align:middle;
+	max-width:100%;
+}
+ul,ol,dl
+{
+	list-style:none;
+}
+header,footer,nav,aside,article,address,section
+{
+	display:block;
+}
+.wrapper
+{
+	width:80%;
+	margin:0 auto;
+	max-width:1366px;
+	box-shadow:0 0 2px #333;
+}
+.wrapper_fluid
+{
+	width:100%;
+	margin:0 auto;
+	max-width:1366px;
+}
+.margin_top_10
+{
+	margin-top:10px;
+}
+.margin_top_20
+{
+	margin-top:20px;
+}
+.margin_top_30
+{
+	margin-top:30px;
+}
+.margin_top_40
+{
+	margin-top:40px;
+}
+.margin_top_50
+{
+	margin-top:50px;
+}
+.margin_top_60
+{
+	margin-top:60px;
+}
+.margin_top_70
+{
+	margin-top:70px;
+}
+.margin_top_80
+{
+	margin-top:80px;
+}
+.margin_top_90
+{
+	margin-top:90px;
+}
+.margin_top_100
+{
+	margin-top:100px;
+}
+.margin_top_110
+{
+	margin-top:100px;
+}
+.margin_top_120
+{
+	margin-top:120px;
+}
+.margin_top_130
+{
+	margin-top:130px;
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-family: 'Oswald', sans-serif;
+}
+.white_background{
+	background:#fff;
+}
+
+/*-=-=-=-==-==-=-=-=-=-=-=-=-==-==-==-= Common Library -=-=-------------=-=-*/
